@@ -1,0 +1,7 @@
+total 22
+drwxrwxrwx  4 nobody nogroup 6144 Nov 10 22:12 ./
+drwxr-xr-x 13 coder  coder     21 Nov 10 22:10 ../
+drwxr-xr-x  2 root   root    6144 Nov 10 22:00 .dotfiles-coursera/
+-rwxrwxrwx  1 nobody nogroup 1460 Jul  7  2022 README.md*
+drwxr-xr-x  3 coder  coder   6144 Nov 10 22:13 repo-exercise/
+-rwxrwxrwx  1 nobody nogroup    7 Jul  7  2022 result.txt*
